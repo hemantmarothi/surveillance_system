@@ -36,3 +36,24 @@ You can install the required packages using pip:
 
 ```bash
 pip install opencv-python face_recognition tkinter ultralytics torch
+
+## Installation
+Clone the repository:
+
+```bash
+git clone <repository-url>
+cd surveillance-system
+
+Install the dependencies listed above.
+Download the YOLO model file (e.g., yolov8n.pt) and place it in the project directory.
+
+## Usage
+Run the application:
+
+```bash
+python app.py
+Enter a name for the face you want to register and click the "Register Face" button. A webcam feed will appear, and you can capture the face by pressing the 'c' key.
+
+After registering faces, you can start the surveillance mode by clicking the "Start Surveillance" button. The system will detect motion and recognize registered faces in real-time.
+
+Press 'q' to exit the surveillance feed.
