@@ -43,7 +43,7 @@ Clone the repository:
 ```bash
 git clone <repository-url>
 cd surveillance-system
-
+```
 Install the dependencies listed above.
 Download the YOLO model file (e.g., yolov8n.pt) and place it in the project directory.
 
