@@ -9,10 +9,6 @@ This project implements a Face Registration and Surveillance System using Python
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Functionality](#functionality)
-- [Challenges and Solutions](#challenges-and-solutions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
